@@ -19,8 +19,6 @@
 ###
 
 
-<div class = "gifS" height="30"> ![shot5](https://github.com/AGGeorgiev22/AGGeorgiev22/assets/132448520/78637a33-2b55-43dd-af6c-5dfab066a2fc)</div> 
-  <h1 align="left">Statistics:</h1>
 
 ###
 
