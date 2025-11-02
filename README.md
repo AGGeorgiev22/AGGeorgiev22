@@ -6,10 +6,10 @@
 
 - 🔭 I’m currently working on [Synthi IDE](https://synthi.app)
 
-- 📫 How to reach me **AGGeorgiev22@codingburgas.bg**
+- 📫 How to reach me **alexggeorgiev08@gmail.com**
 
 <div align="center"> <a href="https://github.com/AGGeorgiev22" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:AGGeorgiev22@codingburgas.bg"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:alexggeorgiev08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
